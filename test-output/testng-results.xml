@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="6" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="181" started-at="2019-06-17T19:53:56Z" finished-at="2019-06-17T19:53:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="181" started-at="2019-06-17T19:53:56Z" finished-at="2019-06-17T19:53:56Z">
+      <class name="Qaclickacdemy.SeleniumTest">
+        <test-method status="PASS" signature="FirstSelenium()[pri:0, instance:Qaclickacdemy.SeleniumTest@4f7d0008]" name="FirstSelenium" duration-ms="27" started-at="2019-06-17T19:53:56Z" finished-at="2019-06-17T19:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstSelenium -->
+        <test-method status="PASS" signature="SecondSelenium()[pri:0, instance:Qaclickacdemy.SeleniumTest@4f7d0008]" name="SecondSelenium" duration-ms="4" started-at="2019-06-17T19:53:56Z" finished-at="2019-06-17T19:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondSelenium -->
+      </class> <!-- Qaclickacdemy.SeleniumTest -->
+      <class name="Qaclickacdemy.RestAPITest">
+        <test-method status="PASS" signature="FirstRestAPI()[pri:0, instance:Qaclickacdemy.RestAPITest@271053e1]" name="FirstRestAPI" duration-ms="1" started-at="2019-06-17T19:53:56Z" finished-at="2019-06-17T19:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstRestAPI -->
+        <test-method status="PASS" signature="SecondRestAPI()[pri:0, instance:Qaclickacdemy.RestAPITest@271053e1]" name="SecondRestAPI" duration-ms="3" started-at="2019-06-17T19:53:56Z" finished-at="2019-06-17T19:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondRestAPI -->
+      </class> <!-- Qaclickacdemy.RestAPITest -->
+      <class name="Qaclickacdemy.AppiumTest">
+        <test-method status="PASS" signature="SecondAppium()[pri:0, instance:Qaclickacdemy.AppiumTest@589838eb]" name="SecondAppium" duration-ms="4" started-at="2019-06-17T19:53:56Z" finished-at="2019-06-17T19:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondAppium -->
+      </class> <!-- Qaclickacdemy.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
