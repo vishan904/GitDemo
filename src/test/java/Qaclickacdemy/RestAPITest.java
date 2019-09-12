@@ -7,6 +7,9 @@ public class RestAPITest {
 	@Test
 	public void FirstRestAPI() {
 		System.out.println("First Rest API");
+		System.out.println("First Rest API2");
+		System.out.println("First Rest API3");
+		System.out.println("First Rest API4");
 	}
 	
 	@Test
