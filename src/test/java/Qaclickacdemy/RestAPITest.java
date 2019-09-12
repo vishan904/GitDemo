@@ -21,4 +21,8 @@ public class RestAPITest {
 		System.out.println("Second Rest API");
 	}
 
+	@Test
+	public void SecondRestAPI1() {
+		System.out.println("Second Rest API");
+	}
 }
