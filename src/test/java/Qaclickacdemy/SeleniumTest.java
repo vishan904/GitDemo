@@ -8,6 +8,9 @@ public class SeleniumTest {
 	public void FirstSelenium() {
 		
 		System.out.println("First Selenium");
+		System.out.println("First Selenium2");
+		System.out.println("First Selenium3");
+		System.out.println("First Selenium4");
 		
 	}
 	

@@ -10,6 +10,10 @@ public class RestAPITest {
 		System.out.println("First Rest API2");
 		System.out.println("First Rest API3");
 		System.out.println("First Rest API4");
+		System.out.println("First Rest API5");
+		System.out.println("First Rest API6");
+		System.out.println("First Rest API7");
+		System.out.println("First Rest API8");
 	}
 	
 	@Test
