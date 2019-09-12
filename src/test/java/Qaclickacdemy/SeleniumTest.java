@@ -20,6 +20,11 @@ public class SeleniumTest {
 	}
 	
 	@Test
+	public void SecondSelenium1() {
+		System.out.println("Second Selenium");
+	}
+	
+	@Test
 	public void SecondSelenium2() {
 		System.out.println("Second Selenium");
 	}
